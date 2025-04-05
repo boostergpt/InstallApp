@@ -19,7 +19,7 @@ def get_image_download_link(img, filename, text):
     return href
 
 # Title and Introduction
-st.title("Python Setup Guide for Complete Beginners 🐍")
+st.title("Python Setup Guide for BoosterGPT Students 🐍")
 st.markdown("""
 Welcome to the Python installation guide for non-programmers! This step-by-step tutorial will help you set up everything 
 you need to run Python, Jupyter Notebooks, Spyder, and install all necessary libraries for data analysis and machine learning.
