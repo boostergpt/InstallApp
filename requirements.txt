@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+notebook
+spyder
+openai
+sentence-transformers
+chromadb
+streamlit
+difflib
+re
